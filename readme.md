@@ -4,13 +4,7 @@ ZMK firware for my wireless Corne split keyboard with nice!nano controllers.
 
 ## Keymaps
 
-![layer 0](./screenshots/zmk-l0.png)
-
-![layer 1](./screenshots/zmk-l1.png)
-
-![layer 2](./screenshots/zmk-l2.png)
-
-![layer 3](./screenshots/zmk-l3.png)
+![layers](./screenshots/zmkLayers.png)
 
 Steps to update the keymaps (which I always forget).
 
